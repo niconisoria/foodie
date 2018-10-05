@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{An example gem that tastes, pluralize and generate recipes for your food.}
   spec.description   = %q{An example gem that can tastes food, pluralize your food(or any other thing) and generate recipe templates for your favorite food.}
-  spec.homepage      = "https://github.com/niconisoria/foodie-example.git"
+  spec.homepage      = "https://rubygems.org/gems/foodie-example"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
