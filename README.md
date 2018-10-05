@@ -1,8 +1,6 @@
 # Foodie
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/foodie`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+An example gem that can tastes food, pluralize your food(or any other thing) and generate recipe templates for your favorite food.
 
 ## Installation
 
@@ -22,7 +20,30 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+To taste food run the following command:
+
+    $ foodie portray 'your food'
+
+This gem doesn't like broccoli
+
+-
+
+To pluralize your food run the following command:
+
+    $ foodie pluralize --word 'your food'
+
+-
+
+To generate a recipe template run the following command:
+
+    $ foodie recipe 'group' 'your food'
+
+An example:
+
+    $ foodie recipe dinner steak
+
+This command will generate a .txt archive | dinner/steak.txt | which you can fill with the ingredents and instructions for your food.
+
 
 ## Development
 
