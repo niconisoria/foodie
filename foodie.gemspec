@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["niconisoria"]
   spec.email         = ["nicolas.nisoria@gmail.com"]
 
-  spec.summary       = %q{A foodie gem that tastes food.}
-  spec.description   = %q{Good tasting different types of food.}
+  spec.summary       = %q{An example gem that tastes, pluralize and generate recipes for your food.}
+  spec.description   = %q{An example gem that can tastes food, pluralize your food(or any other thing) and generate recipe templates for your favorite food.}
   spec.homepage      = "https://github.com/niconisoria/foodieGem.git"
   spec.license       = "MIT"
 

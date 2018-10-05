@@ -26,13 +26,13 @@ To taste food run the following command:
 
 This gem doesn't like broccoli
 
--
+##
 
 To pluralize your food run the following command:
 
     $ foodie pluralize --word 'your food'
 
--
+##
 
 To generate a recipe template run the following command:
 
